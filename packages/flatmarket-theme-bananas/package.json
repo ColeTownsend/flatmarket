@@ -11,7 +11,7 @@
   "repository": "https://github.com/christophercliff/flatmarket/tree/master/packages/flatmarket-theme-bananas",
   "dependencies": {
     "flatmarket-ui": "^3.0.1",
-    "lodash": "^3.10.0",
+    "lodash": "^4.17.19",
     "react": "^0.14.2"
   }
 }
