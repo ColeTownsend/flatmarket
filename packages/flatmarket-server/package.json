@@ -11,7 +11,7 @@
   "main": "./lib/",
   "dependencies": {
     "bluebird": "^2.9.34",
-    "hapi": "^8.8.0",
+    "hapi": "^18.1.0",
     "hapi-flatmarket": "^3.0.1",
     "joi": "^6.5.0"
   }
